@@ -7,4 +7,4 @@
 C = float(input('Please enter a Celsius temperature.\n'))
 F = (9 / 5) * C + 32
 
-print('The equivalent Fahrenheit temperature is:\n' , F)
+print('The equivalent Fahrenheit temperature is:\n' + str(F))
